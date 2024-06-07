@@ -7,7 +7,6 @@ The Rating System is a simple, user-friendly web application that allows users t
 ## Features
 
 - Clean and intuitive user interface
-- Responsive design that works well on both desktop and mobile devices
 - Easy-to-use rating system
 
 ## How to Use
